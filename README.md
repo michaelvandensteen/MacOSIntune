@@ -6,8 +6,8 @@ Welcome to the MacBook Management Scripts repository! This repository contains a
 
 ## Contents
 
-- **Installation Scripts**: Scripts to install and configure essential software.
-- **Configuration Scripts**: Scripts to apply specific settings and configurations.
+- **MacOSDeviceRename.sh**: Scripts to rename device based on custom code and serial number.
+- **TeamViewerCustomInstallMacOS.sh**: Scripts to silenty install TeamViewer on MacOS.
 - **Maintenance Scripts**: Scripts to perform regular maintenance tasks.
 
 ## Questions?
