@@ -6,10 +6,9 @@ Welcome to the MacBook Management Scripts repository! This repository contains a
 
 ## Contents
 
-- **MacOSDeviceRename.sh**: Scripts to rename device based on custom code and serial number.
-- **TeamViewerCustomInstallMacOS.sh**: Scripts to silenty install TeamViewer on MacOS.
-- **Maintenance Scripts**: Scripts to perform regular maintenance tasks.
+- **MacOSDeviceRename.sh**: Script to rename device based on custom code and serial number.
+- **TeamViewerCustomInstallMacOS.sh**: Script to silenty install TeamViewer on MacOS.
 
-## Questions?
+## Questions or suggestions?
 Open an issue on this repository and I'll answer asap.
 
