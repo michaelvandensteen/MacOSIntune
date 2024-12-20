@@ -12,4 +12,3 @@ Welcome to the MacBook Management Scripts repository! This repository contains a
 ## Questions or suggestions?
 Open an issue on this repository and I'll answer asap.
 
-test
